@@ -18,3 +18,5 @@
 #fatto push ed è andato tutto bene, secondo quanto immaginavo
 
 #adesso sto modificando il contenuto di annotazioni.txt e lo sincronizzo con GitHub tramite VisualStudio
+
+#altro tips&trick da VSC, bisogna fare stage changes dal menu sulla sinistra, poi in alto a sinistra c'è la casella per il messaggio commit e poi ctrl+enter, POI proseguire col comando push dal menu
