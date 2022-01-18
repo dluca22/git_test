@@ -1,0 +1,20 @@
+#ho fatto varie modifiche e prove per prendere confidenza con git e github
+
+#spiegazione per confrontare la commit history con le cose che ho fatto
+
+#avevo 3 file in git_test/ : README.md,  Hello_world.txt e test2
+
+#creato nuova cartella hello_git/ per sincronizzarla con Github, ma non funzionava
+#ho scoperto che la cartella deve contenere almeno un file per essere inclusa nella lista delle azioni di Git
+#
+#ho poi creato item1.txt in hello_git/ e fatto commit
+#ho spostato README.md e hello_world.txt in hello_git/ ed eliminato test2
+
+#ho dovuto fare git_add per tutte le modifiche e spostamenti dentro la cartella hello_git/
+#e poi fare git_rm per eliminare i file che ho spostato dalla cartella git_test/
+#fatto commit e push per sincronizzare
+
+#ho poi modificato il nome di item1.txt ad annotazioni.txt e fatto git_add per annotazioni.txt e git_rm per item1.txt (perche ho praticamente eliminato il nome del file dalla repo e ricreato con un altro nome)
+#fatto push ed è andato tutto bene, secondo quanto immaginavo
+
+#adesso sto modificando il contenuto di annotazioni.txt e lo sincronizzo con GitHub tramite VisualStudio
